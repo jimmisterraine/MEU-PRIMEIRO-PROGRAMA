@@ -12,6 +12,7 @@ namespace _1_PrimeiroProjeto
         {
             Console.WriteLine("Olá, mundo! Meu primeiro programa no visual studio");
             Console.WriteLine("Nunca pare de estudar");
+            Console.WriteLine("Nunca pare de Sonhar");
 
 
             Console.WriteLine("A execução acabou. Tecle enter para finalizar...");
